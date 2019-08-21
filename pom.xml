@@ -4,7 +4,7 @@
     <groupId>com.nareshinst</groupId>
     <artifactId>raviproject</artifactId>
     <packaging>war</packaging>
-    <version>v1</version>
+    <version>1.0</version>
     <name>raviLogin Webapp</name>
     <url>http://maven.apache.org</url>
     <properties>
